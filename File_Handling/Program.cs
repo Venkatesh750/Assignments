@@ -7,7 +7,7 @@ namespace Practice
     {
         static void Main(string[] args)
         {
-            // Creating an object for FileStram -- To read and write a file
+            
             Filestream obj = new Filestream();
             obj.display();
 
