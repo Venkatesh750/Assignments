@@ -1,7 +1,0 @@
-C:\Users\ELCOT\source\repos\File Handling\File Handling\bin\Debug\Practice.exe.config
-C:\Users\ELCOT\source\repos\File Handling\File Handling\bin\Debug\Practice.exe
-C:\Users\ELCOT\source\repos\File Handling\File Handling\bin\Debug\Practice.pdb
-C:\Users\ELCOT\source\repos\File Handling\File Handling\obj\Debug\File Handling.csprojAssemblyReference.cache
-C:\Users\ELCOT\source\repos\File Handling\File Handling\obj\Debug\File Handling.csproj.CoreCompileInputs.cache
-C:\Users\ELCOT\source\repos\File Handling\File Handling\obj\Debug\Practice.exe
-C:\Users\ELCOT\source\repos\File Handling\File Handling\obj\Debug\Practice.pdb
