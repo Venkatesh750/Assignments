@@ -22,10 +22,10 @@ namespace Types_of_Thread
             Console.WriteLine("Main method ends");
         }
            
-        // creating a method fn1
+        // creating a method as fn1
         public static void fn1()
         {
-            Console.WriteLine("Function 1");
+            Console.WriteLine("Function 1"); 
             Thread.Sleep(4000);
             Console.WriteLine("Function ends");
         }
