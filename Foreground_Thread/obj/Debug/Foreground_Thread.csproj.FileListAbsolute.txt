@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\Foreground_Thread\Foreground_Thread\bin\Debug\Foreground_Thread.exe.config
+C:\Users\ELCOT\source\repos\Foreground_Thread\Foreground_Thread\bin\Debug\Foreground_Thread.exe
+C:\Users\ELCOT\source\repos\Foreground_Thread\Foreground_Thread\bin\Debug\Foreground_Thread.pdb
+C:\Users\ELCOT\source\repos\Foreground_Thread\Foreground_Thread\obj\Debug\Foreground_Thread.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Foreground_Thread\Foreground_Thread\obj\Debug\Foreground_Thread.exe
+C:\Users\ELCOT\source\repos\Foreground_Thread\Foreground_Thread\obj\Debug\Foreground_Thread.pdb
