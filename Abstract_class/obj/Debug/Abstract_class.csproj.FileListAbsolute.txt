@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\Abstract_class\Abstract_class\bin\Debug\Abstract_class.exe.config
+C:\Users\ELCOT\source\repos\Abstract_class\Abstract_class\bin\Debug\Abstract_class.exe
+C:\Users\ELCOT\source\repos\Abstract_class\Abstract_class\bin\Debug\Abstract_class.pdb
+C:\Users\ELCOT\source\repos\Abstract_class\Abstract_class\obj\Debug\Abstract_class.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Abstract_class\Abstract_class\obj\Debug\Abstract_class.exe
+C:\Users\ELCOT\source\repos\Abstract_class\Abstract_class\obj\Debug\Abstract_class.pdb
