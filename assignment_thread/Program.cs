@@ -11,7 +11,7 @@ namespace Assignment2
     {
         static void Main(string[] args)
         {
-            // creating an instance of thread
+            // creating a thread
             Thread th1 = new Thread(fun1);
             Thread th2 = new Thread(fun2);
             Thread th3 = new Thread(fun3);
