@@ -11,7 +11,7 @@ namespace Thread_Priority
     {
         static void Main(string[] args)
         {
-            // creating an instance of thread
+            // creating a thread
             Thread th1 = new Thread(Display1);
             Thread th2 = new Thread(Display2);
             Thread th3 = new Thread(Display3);
