@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\Sorted_List\Sorted_List\bin\Debug\Sorted_List.exe.config
+C:\Users\ELCOT\source\repos\Sorted_List\Sorted_List\bin\Debug\Sorted_List.exe
+C:\Users\ELCOT\source\repos\Sorted_List\Sorted_List\bin\Debug\Sorted_List.pdb
+C:\Users\ELCOT\source\repos\Sorted_List\Sorted_List\obj\Debug\Sorted_List.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Sorted_List\Sorted_List\obj\Debug\Sorted_List.exe
+C:\Users\ELCOT\source\repos\Sorted_List\Sorted_List\obj\Debug\Sorted_List.pdb
+C:\Users\ELCOT\source\repos\Sorted_List\Sorted_List\obj\Debug\Sorted_List.csprojAssemblyReference.cache
