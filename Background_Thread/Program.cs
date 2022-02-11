@@ -11,7 +11,7 @@ namespace Types_of_Thread
     {
         static void Main(string[] args)
         {
-            // create an instance of thread
+            // create a thread
             Thread th = new Thread(fn1);
             
             // set the thread as in background
