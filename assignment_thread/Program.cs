@@ -11,15 +11,18 @@ namespace Assignment2
     {
         static void Main(string[] args)
         {
+            // creating an instance of thread
             Thread th1 = new Thread(fun1);
             Thread th2 = new Thread(fun2);
             Thread th3 = new Thread(fun3);
             Thread th4 = new Thread(fun4);
             Thread th5 = new Thread(fun5);
-
+            
+            // Print the 5 priority choices and get the priority value from user
             Console.WriteLine("Enter your prority .. \n Highest - 4 \n AboveNormal - 3 \n Normal - 2 \n BelowNormal - 1 \n Lowest - 0 ");
             int num = int.Parse(Console.ReadLine());
-
+            
+            // condition to check the value from user and start the thread
             if(num == 4)
             {
                 th1.Priority = ThreadPriority.Highest;
@@ -47,6 +50,8 @@ namespace Assignment2
             }
             Console.ReadKey();
         }
+        
+        // methods for display to the user
         public static void fun1()
         {
             Console.WriteLine("You entered the Highest Priority");
