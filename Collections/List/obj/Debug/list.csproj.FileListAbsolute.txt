@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\list\list\bin\Debug\list.exe.config
+C:\Users\ELCOT\source\repos\list\list\bin\Debug\list.exe
+C:\Users\ELCOT\source\repos\list\list\bin\Debug\list.pdb
+C:\Users\ELCOT\source\repos\list\list\obj\Debug\list.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\list\list\obj\Debug\list.exe
+C:\Users\ELCOT\source\repos\list\list\obj\Debug\list.pdb
