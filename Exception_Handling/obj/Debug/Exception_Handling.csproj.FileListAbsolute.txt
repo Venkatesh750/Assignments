@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\Exception_Handling\Exception_Handling\bin\Debug\Exception_Handling.exe.config
+C:\Users\ELCOT\source\repos\Exception_Handling\Exception_Handling\bin\Debug\Exception_Handling.exe
+C:\Users\ELCOT\source\repos\Exception_Handling\Exception_Handling\bin\Debug\Exception_Handling.pdb
+C:\Users\ELCOT\source\repos\Exception_Handling\Exception_Handling\obj\Debug\Exception_Handling.csprojAssemblyReference.cache
+C:\Users\ELCOT\source\repos\Exception_Handling\Exception_Handling\obj\Debug\Exception_Handling.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Exception_Handling\Exception_Handling\obj\Debug\Exception_Handling.exe
+C:\Users\ELCOT\source\repos\Exception_Handling\Exception_Handling\obj\Debug\Exception_Handling.pdb
