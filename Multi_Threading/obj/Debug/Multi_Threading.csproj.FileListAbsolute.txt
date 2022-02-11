@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\Multi_Threading\Multi_Threading\obj\Debug\Multi_Threading.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Multi_Threading\Multi_Threading\bin\Debug\Multi_Threading.exe.config
+C:\Users\ELCOT\source\repos\Multi_Threading\Multi_Threading\bin\Debug\Multi_Threading.exe
+C:\Users\ELCOT\source\repos\Multi_Threading\Multi_Threading\bin\Debug\Multi_Threading.pdb
+C:\Users\ELCOT\source\repos\Multi_Threading\Multi_Threading\obj\Debug\Multi_Threading.exe
+C:\Users\ELCOT\source\repos\Multi_Threading\Multi_Threading\obj\Debug\Multi_Threading.pdb
