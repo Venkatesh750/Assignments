@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\Array_List\Array_List\bin\Debug\Array_List.exe.config
+C:\Users\ELCOT\source\repos\Array_List\Array_List\bin\Debug\Array_List.exe
+C:\Users\ELCOT\source\repos\Array_List\Array_List\bin\Debug\Array_List.pdb
+C:\Users\ELCOT\source\repos\Array_List\Array_List\obj\Debug\Array_List.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Array_List\Array_List\obj\Debug\Array_List.exe
+C:\Users\ELCOT\source\repos\Array_List\Array_List\obj\Debug\Array_List.pdb
